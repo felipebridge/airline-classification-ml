@@ -1,0 +1,18 @@
+{
+  "exact": [
+    "src/train_model.py",
+    "src/data_preprocessing.py",
+    "src/evaluate_model.py",
+    "src/utils.py"
+  ],
+  "prefixes": [
+    "models/",
+    "data/",
+    "notebooks/"
+  ],
+  "patterns": [
+    "\\.ipynb$",
+    "\\.pkl$",
+    "\\.joblib$"
+  ]
+}
