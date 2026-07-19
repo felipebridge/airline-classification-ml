@@ -1,6 +1,6 @@
 # Doc Quality Report
 
-_Date: 2026-07-12_
+_Date: 2026-07-19_
 
 ## README — 60/100 (needs work)
 
@@ -30,14 +30,14 @@ _Date: 2026-07-12_
 
 **Undocumented public functions (sample):**
 
+- `src/evaluate_model.py::score`
+- `src/evaluate_model.py::print_metrics`
+- `src/train_model.py::train`
 - `src/data_preprocessing.py::build_preprocessor`
 - `src/data_preprocessing.py::prepare`
-- `src/train_model.py::train`
 - `src/utils.py::load_raw_data`
 - `src/utils.py::save_figure`
 - `src/utils.py::save_model`
-- `src/evaluate_model.py::score`
-- `src/evaluate_model.py::print_metrics`
 
 ## Changelog
 
